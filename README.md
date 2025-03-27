@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ombhattalwar2005
 - 👀 I’m interested in app development and full stack development.
 - 🌱 I’m currently learning DSA of java
-- 💞️ I’m looking to collaborate on drone automation for my next resume project
+- 💞️ I’m looking to collaborate on AI photo generater platform 
 - 📫 How to reach me @0mbhattalwar2005@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
